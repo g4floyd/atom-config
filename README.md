@@ -12,7 +12,7 @@ https://atom.io/packages/pigments
 
 https://atom.io/packages/minimap-pigments
 
-### git visual
+### git control
 https://atom.io/packages/git-control
 ### indent-guide-improved
 https://atom.io/packages/indent-guide-improved
