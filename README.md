@@ -1,5 +1,5 @@
 # atom-config
-Central reference for Atom packages and settings. 
+Central reference for Atom packages and settings.
 
 ## Packages
 ### file-icons
@@ -12,6 +12,7 @@ https://atom.io/packages/pigments
 
 https://atom.io/packages/minimap-pigments
 
-
+### git visual
+https://atom.io/packages/git-control
 ### indent-guide-improved
 https://atom.io/packages/indent-guide-improved
